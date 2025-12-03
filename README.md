@@ -1,5 +1,3 @@
-# CPUの動作
-
 import React, { useState } from 'react';
 import { Play, RotateCcw, StepForward, BookOpen, Plus, Trash2 } from 'lucide-react';
 
